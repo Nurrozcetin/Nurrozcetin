@@ -1,5 +1,5 @@
 # 💫 About Me:
->Hi! I am Fatmanur. I am a computer engineering student at Izmir Bakırcay University.<br>>I am developing projects on java python javascript and nodejs.<br>>Shoot me an email or add on LinkedIn <br>>My email : fatmanurceng@gmail.com
+>Hi! I am Fatmanur. I am a computer engineering student at Izmir Bakırcay University.<br>>I am developing projects on java python javascript flutter and nodejs.<br>>Shoot me an email or add on LinkedIn <br>>My email : fatmanurceng@gmail.com
 
 
 ## 🌐 Socials:
